@@ -1,6 +1,8 @@
 # Hvad migration
 
-Migrate your data safetly with Hvad 🏳
+Experimental way to migrate your data safetly using Hvad 🇳🇱
+
+Part of this repository is now in our django-hvad personal fork.
 
 
 ## Keep data during migration
